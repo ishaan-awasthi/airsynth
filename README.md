@@ -8,6 +8,7 @@ Brief Overview:
 Key Features:
 - Both melodic and harmonic capabilities.
 - Toggleable audio-visual filter for ease of use.
+- OOTB setup and use
 - Cross platform compatibility, multi-resolution support.
 
 Purpose:
